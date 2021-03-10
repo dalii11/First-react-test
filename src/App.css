@@ -1,0 +1,17 @@
+/* #mail {
+    width: 50%;
+}
+#LastName {
+    width: 50%;
+} */
+form {
+    display: flex;
+    /* justify-content: space-around; */
+    /* flex-wrap: wrap; */
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+butt {
+    margin: 200%;
+}
